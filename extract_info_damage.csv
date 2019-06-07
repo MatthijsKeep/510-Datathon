@@ -1,0 +1,2052 @@
+|_golden|_last_judgment_at|_trusted_judgments|_unit_id|_unit_state|category|hom_many_injured_or_dead_if_people|hom_many_injured_or_dead_if_people_gold|how_many_injured_or_dead_if_people|how_many_injured_or_dead_if_people_gold|people_or_infrastructure|people_or_infrastructure:confidence|people_or_infrastructure_gold|text|type|what_infrastructure_was_damaged_if_infrastructure
+0|True|11/23/2012 14:36:01|12|227175113|golden|Informative (Direct or Indirect)|"28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28"|28|||People: dead|1.0|People: dead|"RT @HenderGrande: 28 deaths due to Hurricane Sandy | Charlotte taking a twitbreak | Ellen probably dead | Worst day ever."|Casualties and damage|"
+
+
+
+
+
+
+
+
+
+
+"
+1|True|11/23/2012 13:13:34|12|227175114|golden|Informative (Direct or Indirect)|"50
+50
+50
+50 people nationwide 18 were New York City residents
+50
+50
+50
+18
+50
+50
+50
+50"|"50
+kills 50 people nationwide
+50 people nationwide 18 were New York City residents
+50,18"|||Both people and infrastructure|0.7143|"People: dead
+Both people and infrastructure"|Sandy kills 50 people nationwide 18 were New York City residents. More than 8 million homes still without power across 17 states.|Casualties and damage|"homes
+
+8 million homes
+8 million homes still without power across 17 states
+homes without power
+power
+power
+power
+
+homes
+power
+"
+2|True|11/23/2012 09:09:19|7|227175115|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.5353|Infrastructure (building, bridge, road, etc.) damage|RT @twc_hurricane: RT @nowthised: Wider shot of scaffolding toppling car on CPW and 92nd across from Central ParkNYC @nowthisnews #sandy http://t.co/ivkExinW|Casualties and damage|"
+scaffolding toppling car
+shot of scaffolding toppling car
+car
+car
+car
+Wider shot of scaffolding toppling car on CPW and 92nd across from Central ParkNYC"
+3|True|11/23/2012 13:20:51|11|227175116|golden|Informative (Direct or Indirect)|"
+
+
+
+none
+
+toll climbs
+
+
+
+toll climbs"|"N/A
+N/a"|||Both people and infrastructure|0.5651|Both people and infrastructure|Sandy death toll climbs; millions remain without power. Thousands of homes are flooded others destroyed.|Casualties and damage|"homes
+power, homes
+Thousands of homes
+homes
+thousands of homes
+millions remain without power. Thousands of homes are flooded others destroyed
+homes are flooded others destroyed
+homes
+Thousands of homes
+power,Thousands of homes are flooded
+millions remain without power. Thousands of homes are flooded others destroyed"
+4|True|11/23/2012 14:25:53|15|227175117|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+
+
+
+
+
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0|Infrastructure (building, bridge, road, etc.) damage|RT @emmagkeller: Extensive flooding in all subway tunnels says Bloomberg. It's going to be a big problem to get them back going. #sandy|Casualties and damage|"Extensive flooding in all subway tunnels
+Extensive flooding in all subway tunnels
+Extensive flooding in all subway tunnels
+extensive flooding in all the sub ways
+flooding in all subway tunnels
+subway tunnels
+subway tunnels
+subway tunnels
+subway tunnels
+subway tunnels
+subway tunnels
+flooding in all subway tunnels
+all subway tunnels
+flooding in all subway tunnels
+subway tunnels"
+5|True|11/23/2012 13:59:20|12|227175118|golden|Informative (Direct or Indirect)|"40
+40
+40 people
+40
+40
+40
+40
+40
+40
+46
+40
+40"|40|||People: dead|1.0|People: dead|40 people killed during Super Storm Sandy! Don't understand how in a major city they didnt stay indoors or found a shelter!|Casualties and damage|"
+
+
+
+
+
+
+
+
+
+
+"
+6|True|11/23/2012 14:15:54|9|227175119|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+New Jersey sewage plant hit
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0|Infrastructure (building, bridge, road, etc.) damage|+++BREAKING+++ New Jersey sewage plant hit by #Sandy. Ultimate shitstorm imminent for the East Coast! +++BREAKING+++|Casualties and damage|"sewage plant
+sewage plant
+New Jersey sewage plant hit
+sewage plant
+sewage plant
+sewage plant
+
+sewage plant
+sewage plant"
+7|True|11/23/2012 14:38:49|10|227175120|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6308|Infrastructure (building, bridge, road, etc.) damage|RT @aadragna: A boat lies across the railroad tracks near Metro-North's Ossining station. http://t.co/952JfSHe #Sandy #SandyNYC|Casualties and damage|"
+boat
+Metro-North's Ossining station
+
+boat
+boat
+boat lies across the railroad tracks
+
+
+boat lies across the railroad tracks"
+8|True|11/23/2012 13:20:51|8|227175121|golden|Informative (Direct or Indirect)|"
+
+none
+
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.7965|Infrastructure (building, bridge, road, etc.) damage|RT @UNLibrary: We are worried about the #UN documents historical collection that might have been damaged by #Sandy. We will keep you posted.|Casualties and damage|"
+
+UN documents historical collections
+UN documents historical collection that might have been damaged
+UN documents historical collection
+historical collection
+#UN documents historical collection
+#UN documents historical collection"
+9|False|11/22/2012 17:56:56|3|227175122|golden|Informative (Direct or Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0|"Infrastructure (building, bridge, road, etc.) damage
+Not damage-related"|@leeannderthol No the aquarium building itself is fine and there have been no reports of lost animals. http://t.co/yU3tFibK|Casualties and damage|"the aquarium building itself is fine
+aquarium building
+aquarium building"
+10|True|11/23/2012 14:19:51|9|227175123|golden|Informative (Direct or Indirect)|"
+
+none
+
+
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0|Infrastructure (building, bridge, road, etc.) damage|"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"building
+collapsed crane dangling from a building
+crane
+collapsed crane dangling from a building
+crane
+collapsed crane
+collapsed crane
+crane
+crane"
+11|False|11/22/2012 16:31:26|6|227175124|golden|Informative (Direct or Indirect)|"
+0
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.3719|Infrastructure (building, bridge, road, etc.) damage|Nearly All Of Weston Without Power After Hurricane Sandy Tues AM http://t.co/SFaCqMFv|Casualties and damage|"
+
+power
+
+Weston Without Power
+Without Power"
+12|True|11/23/2012 13:55:34|10|227175125|golden|Informative (Direct or Indirect)|"94
+94
+94
+94
+94
+94
+94
+94
+94
+94"|94|||People: dead|0.9098|People: dead|RT @cnnbrk: Latest death toll from #Sandy is 94 overall including 26 in the U.S. http://t.co/0aJUD1SS|Casualties and damage|"
+
+
+
+
+
+
+
+homes and the New York subway system
+"
+13|False|11/22/2012 17:52:42|6|227175126|golden|Informative (Direct or Indirect)|"
+
+
+
+
+"||||Not damage-related|0.8321|Infrastructure (building, bridge, road, etc.) damage|RT @gma: The four zoos in NYC say not a single animal was injured in #Sandy (via @LaraSpencer) ^L|Casualties and damage|"
+
+
+
+
+"
+14|True|11/23/2012 15:16:59|3|227175127|golden|Informative (Direct or Indirect)|"2, 1, 1, 1, 5
+2 deaths in New Jersey 1 in Connecticut 1 in West Virginia 1 off NC coast in addition to 5 deaths in NY
+10"|2, 1, 1, 1, 5|||People: dead|1.0|People: dead|RT @GoogleFacts: 2 deaths in New Jersey 1 in Connecticut 1 in West Virginia 1 off NC coast in addition to 5 deaths in NY because of #Sandy|Casualties and damage|"
+
+"
+15|True|11/23/2012 14:36:01|9|227175128|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+
+Sandy fury
+N/A"||||People: dead|0.8955|People: dead|RT @maiymartiny: Sandy fury kills in NY. Hmm balasan tuhan kot sbb the 'innocence of muslims'|Casualties and damage|"
+
+
+
+
+
+
+
+"
+16|True|11/23/2012 14:36:01|14|227175129|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+
+
+
+
+
+
+
+"||||Not specified (maybe people or infrastructure)|0.3713|"Infrastructure (building, bridge, road, etc.) damage
+Not specified (maybe people or infrastructure)"|Sandy casualty #frankenstorm #nyc #westvillage http://t.co/gy9s6nwW|Casualties and damage|"Sandy casualty #frankenstorm #nyc #westvillage
+
+
+
+
+
+trees road
+
+
+
+#frankenstorm #nyc #westvillage
+#frankenstorm #nyc #westvillage
+
+westvillage"
+17|False|11/23/2012 14:21:26|4|227175130|golden|Informative (Direct or Indirect)|"7588
+7588
+7588
+7588"|"7588 
+7588 deaths 604045 cases
+7588 deaths 604045 cases"|||People: dead|1.0|People: dead|#Cholera update 10/19: 7588 deaths 604045 cases. Over 100 cases in PaP alone each of last 4 days of reporting. Only get worse w/ #sandy.|Casualties and damage|"
+
+
+"
+18|True|11/23/2012 13:43:14|10|227175131|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+
+
+
+"||||Not damage-related|0.5069|Not damage-related|RT @JohnFugelsang: If #Sandy causes major damage FEMA stands ready to deliver Soy Lattes to NYC's Upper West Side.|Casualties and damage|"FEMA
+
+
+
+
+
+
+
+FEMA stands
+"
+19|True|11/23/2012 14:22:55|8|227175132|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+
+"||||Not damage-related|0.6751|Infrastructure (building, bridge, road, etc.) damage|RT @JustinKing224: This is...unreal. Essentially the only building with power in #NYC right now is the Empire State Building. #Sandy http://t.co/ScVhG8qH|Casualties and damage|"building
+Empire State Building
+
+
+
+
+
+"
+20|True|11/23/2012 13:31:27|11|227175133|golden|Informative (Direct or Indirect)|"
+
+300000
+
+
+
+
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.7402|Infrastructure (building, bridge, road, etc.) damage|RT @CNNweather: JUST IN: Nearly 300000 customers are WITHOUT power in 7 states where Hurricane #Sandy is having an impact. NJ has the most at 92000.|Casualties and damage|"power
+Nearly 300000 customers are WITHOUT power
+
+300000 customers are WITHOUT power in 7 states
+WITHOUT power
+power
+electricity distribution network
+power
+
+power
+power"
+21|False|11/22/2012 15:12:38|5|227175134|golden|Informative (Direct or Indirect)|"
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.8886|"Infrastructure (building, bridge, road, etc.) damage
+Not damage-related"|NYC is a disaster. Nothing like this since 9-11. Subways will be shut down for days. What a nightmare. Thanks for nothing #Sandy.|Casualties and damage|"
+Subways
+Subways
+Subways
+subways"
+22|True|11/23/2012 02:58:24|2|227175135|golden|Informative (Direct or Indirect)|"at least 50
+50"|at least 50|||Both people and infrastructure|1.0|Both people and infrastructure|RT @AnaCabrera: #Sandy latest: at least 50 people dead more than 8-million w/o power in 17 states 61000 New Yorkers are staying in shelters.|Casualties and damage|"power
+power"
+23|True|11/23/2012 14:24:00|11|227175136|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+
+
+
+
+"||||Not specified (maybe people or infrastructure)|0.5693|"Not specified (maybe people or infrastructure)
+Not damage-related"|The aftermath of hurricane sandy #ohman http://t.co/5wFfXsRH|Casualties and damage|"
+
+
+weird picture of a stick on the link
+
+
+
+
+The aftermath
+
+"
+24|True|11/23/2012 13:13:34|10|227175137|golden|Informative (Direct or Indirect)|"36
+36
+36
+36
+36 deaths
+36
+36
+36
+36
+36"|36|||People: dead|1.0|People: dead|36 deaths already from hurricane Sandy so sad. My prayers go out to all the people that were impacted #Sandy #praying|Casualties and damage|"
+
+
+
+
+
+
+
+
+"
+25|True|11/23/2012 14:36:01|11|227175138|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+
+
+
+
+bldgs on 56 & 57th st bet"||||Infrastructure (building, bridge, road, etc.) damage|0.9108|Infrastructure (building, bridge, road, etc.) damage|bldgs on 56 & 57th st bet 6 & 7th aves evacuated due to crane collapse--inc hotel. Staging area set up by police & fire. #sandy #nyc|Casualties and damage|"bldgs
+crane collapse
+bldgs
+crane collapse
+blgs are collapsed
+crane
+crane
+crane collapse
+crane collapse
+crane
+bldgs on 56 & 57th st"
+26|False|11/22/2012 18:16:50|4|227175139|golden|Informative (Direct or Indirect)|"87
+69
+69
+69, 15, 3"|"69, 15, 3
+69 People In The Caribbean 15 People
+69 People In The Caribbean 15 People In NY & 3 People In NJ
+People: injured and dead
+87 people"|||People: dead|1.0|People: dead|"RT @Jersey_Head: Sandy Killed 69 People In The Caribbean  15 People In NY  & 3 People In NJ . : ( RT To Show Respect ."""|Casualties and damage|"
+
+
+"
+27|False|11/23/2012 02:56:30|6|227175140|golden|Informative (Direct or Indirect)|"
+
+
+No fatalities in #Sandy so far in NYC.
+
+"|0|||Not damage-related|0.6526|Not damage-related|RT @moneyries: Winning. RT @WSJweather: No fatalities in #Sandy so far in NYC.|Casualties and damage|"
+
+
+
+
+"
+28|True|11/23/2012 13:13:34|11|227175141|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.7398|"Infrastructure (building, bridge, road, etc.) damage
+Both people and infrastructure"|Hurricane Sandy has done some serious damage in the NY/NJ area. People's homes are on state highways!|Casualties and damage|"homes
+home
+homes
+people's homes are on state highways
+66
+homes
+homes
+homes
+People's homes are on state highways
+
+People's homes"
+29|True|11/23/2012 14:07:12|12|227175142|golden|Informative (Direct or Indirect)|"39
+39
+39 dead
+39
+39
+39
+At least 39
+39
+39
+39
+39
+39"|"at least 39
+39 dead
+At least 39
+least 39 dead
+39"|||People: dead|0.518|"People: dead
+Both people and infrastructure"|At least 39 dead millions without power in Sandy's aftermath. http://t.co/NfqV1oYV|Casualties and damage|"
+
+
+
+
+power
+power
+power
+
+millions without power
+millions without power
+millions without power"
+30|True|11/23/2012 13:13:34|8|227175145|golden|Informative (Direct or Indirect)|"
+
+
+
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6725|Infrastructure (building, bridge, road, etc.) damage|RT @LBOOGSHH: Most of manhattan below 39st is still without power #nyc #sandy|Casualties and damage|"
+power
+
+power
+without power
+
+Most of manhattan below 39st
+"
+31|True|11/23/2012 14:36:01|12|227175146|golden|Informative (Direct)|"
+
+
+
+
+
+
+
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0|Infrastructure (building, bridge, road, etc.) damage|RT @ryansmithtv: Wind a big problem in NYC. This midtown building is losing glass police clearing streets now #sandy http://t.co/Qv6lQIzT|Casualties and damage|"police clearing streets
+midtown building is losing glass
+building
+midtown building
+Wind
+building
+building
+midtown building
+midtown building is losing glass
+midtown building is losing glass
+midtown building is losing glass
+midtown building"
+32|False|11/23/2012 15:16:59|4|227175147|finalized|Informative (Direct)|"crane collapse
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @RickSanchezTV: bldgs on 56 & 57th st bet 6 & 7th aves evacuated due to crane collapse--inc hotel. Staging area set up by police & fire. #sandy #nyc|Casualties and damage|"
+crane
+crane
+crane"
+33|False|11/23/2012 02:52:46|3|227175148|finalized|Informative (Direct)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||Michigan feels Superstorm Sandy pain with power outages high winds waves http://t.co/OjgQfaC1 #green #news|Casualties and damage|"Superstorm Sandy pain with power outages high winds waves
+power
+power"
+34|False|11/23/2012 09:35:05|3|227175149|finalized|Informative (Direct)|"
+
+"||||People: dead|1.0||RT @wheeliesmom: Dear @AP people died from #Sandy in places other than the USA.|Casualties and damage|"
+
+"
+35|False|11/23/2012 14:38:49|4|227175150|finalized|Informative (Direct)|"
+
+
+"||||Not damage-related|0.5008||Lots of trees down in our nabe but no serious damage I've yet seen. Jackson Heights QNS #nyc #sandy http://t.co/pUiWapd0|Casualties and damage|"
+tree
+
+trees"
+36|False|11/23/2012 09:19:19|4|227175151|finalized|Informative (Direct)|"
+
+
+"||||Not specified (maybe people or infrastructure)|0.505||Awnings down. #sandy #nyc http://t.co/ILJWG7KR|Casualties and damage|"
+
+Awnings
+"
+37|False|11/23/2012 14:15:54|3|227175152|finalized|Informative (Direct)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @MELANIATRUMP: Crane on 57 street collapsed. So dangerous! #NYC #Hurricane #Sandy http://t.co/s6T3oHtR|Casualties and damage|"crane
+Crane
+Crane"
+38|False|11/23/2012 15:16:59|4|227175153|finalized|Informative (Direct)|"
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.7477||MT @jsjohnst: #flood Cop car in the middle of street has water up over the bottom of the car. #loc Avenue C & 23rd Street #Sandy #nyc|Casualties and damage|"
+car
+Cop car
+car"
+39|False|11/23/2012 14:15:54|3|227175154|finalized|Informative (Direct)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"collapsed crane dangling from a building
+crane
+crane"
+40|False|11/23/2012 09:19:19|3|227175155|finalized|Informative (Direct)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"collapsed crane
+crane
+collapsed crane dangling from a building"
+41|False|11/23/2012 13:59:20|3|227175156|finalized|Informative (Direct)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6818||MT @ZaidaGrunes: #ParkSlope #Brooklyn Huge Downed Tree taken by @jayobey93 #Sandy #Frankenstorm #NYC @DNAinfo http://t.co/uzZQe1Ee|Casualties and damage|"Tree
+
+Tree"
+42|False|11/23/2012 03:14:44|3|227175157|finalized|Informative (Direct)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||my street is almost starting to flood like by the end of the day #sandy woo :P|Casualties and damage|"street
+street
+street"
+43|False|11/23/2012 09:19:19|3|227175158|finalized|Informative (Direct)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @MELANIATRUMP: Crane on 57 street collapsed. So dangerous! #NYC #Hurricane #Sandy http://t.co/s6T3oHtR|Casualties and damage|"Crane
+Crane
+Crane on 57 street collapsed"
+44|False|11/23/2012 14:38:49|4|227175159|finalized|Informative (Direct)|"
+
+
+"||||Not specified (maybe people or infrastructure)|0.5318||Most of the water in NYC had receded but debris is everywhere. Movement around LI is going to be difficult at best. #sandy|Casualties and damage|"
+
+debris
+debris is everywhere"
+45|False|11/23/2012 02:50:52|3|227175160|finalized|Informative (Direct)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"building
+crane
+crane"
+46|False|11/23/2012 14:25:53|3|227175161|finalized|Informative (Indirect)|"At least 39
+39
+39"||||Both people and infrastructure|0.6724||At least 39 dead millions without power in Sandy's aftermath. http://t.co/Wdvz8KK8|Casualties and damage|"power
+millions without power
+"
+47|False|11/23/2012 14:27:51|3|227175162|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"building
+crane
+crane"
+48|False|11/23/2012 02:58:24|3|227175163|finalized|Informative (Indirect)|"
+
+"||||Not damage-related|1.0||RT @sassjordan: ok .. things aren't looking too bad for the GTA right now .. http://t.co/0lZOx9mA|Casualties and damage|"
+
+"
+49|False|11/23/2012 13:59:20|3|227175164|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @BBCBreaking: Superstorm #Sandy washes up tanker onto New York's Staten Island. Photo: http://t.co/MNxRVJhf (via @GMA)|Casualties and damage|"tanker
+tanker
+washes up tanker onto New York's Staten Island"
+50|False|11/23/2012 14:38:49|4|227175165|finalized|Informative (Indirect)|"
+
+
+"||||Not specified (maybe people or infrastructure)|0.515||WOW scary! RT @Zamba4: That's haunting!. Flooding already.RT @doublebeee: Wow. NYC today. #Sandy http://t.co/FicisQqk|Casualties and damage|"
+
+broken link
+"
+51|False|11/23/2012 14:38:49|4|227175166|finalized|Informative (Indirect)|"
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @Newsmax_Media: Sandy Storms Across Pennsylvania Leaving Flooded NYC in Dark http://t.co/54sIVW57 via @Newsmax_Media|Casualties and damage|"Dark
+electricity damaged
+
+NYC in Dark"
+52|False|11/23/2012 03:16:02|3|227175167|finalized|Informative (Indirect)|"2
+2
+2"||||Both people and infrastructure|0.6365||RT @Pervaizistan: NYPD source confirms 2 more #sandy deaths in NYC: Man 55 in flooded downtown Manhattan basement & 14 yr old girl by Staten Island shore.|Casualties and damage|"
+basement
+"
+53|False|11/23/2012 13:59:20|3|227175168|finalized|Informative (Indirect)|"more than 100
+more than 100
+100"||||People: dead|1.0||Superstorm SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s trail of destruction kills more than 100 http://t.co/KTKuDCeJ #alarabiya #Sandy #USA http://t.co/QAerfZyT|Casualties and damage|"
+
+"
+54|False|11/23/2012 14:03:45|3|227175169|finalized|Informative (Indirect)|"50
+50
+50"||||Both people and infrastructure|0.6818||RT @9NEWS: Sandy kills 50 people nationwide 18 were New York City residents. More than 8 million homes still without power across 17 states.|Casualties and damage|"electricity damaged
+homes
+More than 8 million homes still without power across 17 states"
+55|False|11/23/2012 09:38:14|3|227175170|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @NBCNewYork: Bloomberg: 3/4 of a million in #NYC without power. #Sandy|Casualties and damage|"power
+power
+3/4 of a million in #NYC without power."
+56|False|11/23/2012 13:38:00|3|227175171|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @kerstinshamberg: MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens all 7 are flooded #nyc #Sandy #fb|Casualties and damage|"subway tunnels
+subway tunnels
+subway tunnels"
+57|False|11/23/2012 15:16:59|4|227175172|finalized|Informative (Indirect)|"
+
+
+"||||Not specified (maybe people or infrastructure)|0.7257||"RT @MichaelHwrdSaul: Mayor Bloomberg calls it storm ""devastating"" and ""perhaps worst"" in NYC history. #Sandy"|Casualties and damage|"
+
+
+"
+58|False|11/23/2012 14:03:45|3|227175173|finalized|Informative (Indirect)|"48
+48
+48"||||Both people and infrastructure|0.6818||Sandy kills 48 leaves over 8.2 million in the dark in US http://t.co/khMJkUJD|Casualties and damage|"power
+
+"
+59|False|11/23/2012 02:54:36|3|227175174|finalized|Informative (Indirect)|"168
+168
+"||||People: injured|0.6981||RT @newsbreaker: ALERT: At least 168 people stranded in some 59 locations in Manhattan Staten Island Queens Brooklyn Coast Guard tells CNN. #sandy #nyc|Casualties and damage|"
+
+"
+60|False|11/23/2012 14:19:51|3|227175175|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||Hurricane Sandy affecting internet websites http://t.co/afkiV7Hw #edpt20012|Casualties and damage|"internet websites
+nternet websites
+internet websites"
+61|False|11/23/2012 14:25:53|3|227175176|finalized|Informative (Indirect)|"13
+At least 13
+13"||||Both people and infrastructure|0.6889||RT @abc7newsBayArea: At least 13 U.S. deaths are being blamed on #Sandy which has knocked out power to an estimated 5.2 million people. http://t.co/ppZ2PmEm|Casualties and damage|"power
+power
+"
+62|False|11/23/2012 14:19:51|3|227175177|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @NYCMayorsOffice: Mayor: Our two biggest challenges going forward will be getting our transit system and power grid up and running. #Sandy|Casualties and damage|"transit system and power grid
+transit system and power grid
+getting our transit system and power grid up and running"
+63|False|11/23/2012 14:28:48|3|227175178|finalized|Informative (Indirect)|"10
+10
+10"||||People: dead|1.0||"RT @xeni: Bloomberg ""our priority is protecting lives."" 10 dead in NYC from Sandy."|Casualties and damage|"
+
+"
+64|False|11/23/2012 14:24:00|3|227175179|finalized|Informative (Indirect)|"133
+133
+133"||||People: dead|1.0||Hurricane Sandy. 133 confirmed deaths. Do you still think its funny? Because it breaks my heart. http://t.co/GgjsP8Og|Casualties and damage|"
+
+"
+65|False|11/23/2012 15:16:59|4|227175180|finalized|Informative (Indirect)|"48 millions
+48
+48
+"||||Both people and infrastructure|0.48200000000000004||Sandy kills 48 millions in the dark http://t.co/I9GOSOXc via @sharethis|Casualties and damage|"
+electricity damaged
+millions in the dark
+"
+66|False|11/23/2012 14:24:00|3|227175181|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6462||RT @ponderbop: On infrastructure aid & recovery in #Haiti where hundreds of thousands go homeless after natural disasters http://t.co/cPljLvEy #Sandy|Casualties and damage|"homeless
+home
+homeless"
+67|False|11/23/2012 14:11:45|3|227175182|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"collapsed crane
+crane
+crane"
+68|False|11/23/2012 02:52:46|3|227175183|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @twc_hurricane: MT @NYGovCuomo: Entrance to Battery Park flooded NYC DOT truck seen submerged http://t.co/90TS0xac #Sandy|Casualties and damage|"flooded
+DOT truck
+truck"
+69|False|11/23/2012 09:44:32|3|227175184|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||SANDY: At least 300000 customers w/o power in 7 states; New Jersey most outages w/ over 91500 in the dark #CNN|Casualties and damage|"power
+power
+300000 customers w/o power in 7 states"
+70|False|11/23/2012 14:24:00|3|227175185|finalized|Informative (Indirect)|"5
+five
+5"||||People: dead|1.0||RT @nydailynews: NYPD's public information office reports there have been five storm-related deaths in NYC. http://t.co/xzTcTLGl #Sandy|Casualties and damage|"
+
+"
+71|False|11/23/2012 14:21:26|3|227175186|finalized|Informative (Indirect)|"At least 39
+39
+39"||||People: dead|1.0||RT @tejucole: Non-AmericansÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â®54 in Haiti 11 in CubaÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â®are people too. MT @nytimes: At least 39 people have died due to Hurricane Sandy. http://t.co/RF12OEvu|Casualties and damage|"
+
+"
+72|False|11/23/2012 09:13:54|3|227175187|finalized|Informative (Indirect)|"250000
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6434||RT @sabzbrach: Sandy left 250000 people homeless in Haiti. The country wasn't prepared and now it's decimated.|Casualties and damage|"homeless
+home
+homeless"
+73|False|11/23/2012 02:29:44|3|227175188|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @Reuters: U.N. Security Council relocates due to storm damage: envoys http://t.co/RQTQPzYV|Casualties and damage|"storm damage
+U.N. Security Council
+United Nations complex"
+74|False|11/23/2012 14:38:49|3|227175189|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"building
+crane
+crane"
+75|False|11/23/2012 02:56:30|3|227175190|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.7128||Oh great! ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@NYTMetro: ConEd: Number of NYC-area customers without power is about 68700 and is sure to keep rising http://t.co/bfRGmgiVÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â|Casualties and damage|"without power
+power
+power"
+76|False|11/23/2012 09:35:05|4|227175191|finalized|Informative (Indirect)|"
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.7568||RT @MJalonschi: #frankenstorm #nyc RT @queenscourier UPDATE: Outages in #Queens have reached more than 19000 #ConEd customers http://t.co/IA3Vhf3U #Sandy|Casualties and damage|"electricity damaged
+
+Outages
+Outages in #Queens have reached more than 19000"
+77|False|11/23/2012 13:31:27|3|227175192|finalized|Informative (Indirect)|"8.1 million
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.3529||RT @ABC7Chicago: #BreakingNews - 8.1 million now without power in 18 states from #Superstorm #Sandy|Casualties and damage|"
+power
+power"
+78|False|11/23/2012 02:42:32|3|227175193|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"Hi guys! ::waves back:: RT @TIME NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/dcb9fvRf #Sandy"|Casualties and damage|"collapsed crane dangling from a building
+crane
+crane"
+79|False|11/23/2012 02:29:44|3|227175194|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @kerstinshamberg: MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded #nyc #Sandy|Casualties and damage|"7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded
+subway tunnels
+subway tunnels"
+80|False|11/23/2012 15:16:59|3|227175195|finalized|Informative (Indirect)|"94
+94
+94"||||People: dead|1.0||RT @CNN: Total deaths due to superstorm Sandy now at 94 with 26 in the U.S. - details: http://t.co/Ddv2x5uM|Casualties and damage|"
+
+"
+81|False|11/23/2012 13:38:00|3|227175196|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6885||RT @SoozOnSports: Between NYC/Westchester/Long Island and New Jersey there are 1.26 million customers without power. #Sandy|Casualties and damage|"without power
+power
+power"
+82|False|11/23/2012 09:46:48|3|227175197|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC building had numerous construction complaints before crane collapse | http://t.co/7EDmKOp3 (via @TIMENewsfeed) #Sandy"|Casualties and damage|"crane
+building
+crane collapse"
+83|False|11/23/2012 02:54:36|3|227175198|finalized|Informative (Indirect)|"30
+at least 30
+30"||||People: dead|1.0||In the other #News; Sandy causes at least 30 U.S. deaths http://t.co/soxAGnfs #cnn|Casualties and damage|"
+
+"
+84|False|11/23/2012 14:25:53|3|227175199|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @JasonBiggs: Collapsed crane 57th St. NYC. #Sandy http://t.co/aacHxZYs|Casualties and damage|"crane
+crane
+crane"
+85|False|11/23/2012 09:15:19|3|227175200|finalized|Informative (Indirect)|"
+
+"||||Not specified (maybe people or infrastructure)|0.6421||RT @CNNLive: #NYC Mayor @MikeBloomberg on #Sandy: May be the worst (storm) we have ever experienced. Watch live briefing on http://t.co/FOkSw980|Casualties and damage|"
+
+"
+86|False|11/23/2012 13:55:34|3|227175201|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @mrdaveyd: Tripping off that huge crane that NYPD says they may have to let fall on 57th and 7th Ave.. No way they can secure it from #sandy|Casualties and damage|"crane
+crane
+crane"
+87|False|11/23/2012 13:55:34|3|227175202|finalized|Informative (Indirect)|"
+
+"||||Not damage-related|0.6421||RT @NewYorkPost: Apple Store gets sand bagged in the Meatpacking Dristict. #hurricane #sandy #nyc http://t.co/mfbG5fzz|Casualties and damage|"Apple Store
+
+"
+88|False|11/23/2012 14:38:49|3|227175203|finalized|Informative (Indirect)|"30, 25
+55
+30,25"||||People: injured and dead|0.6806||RT @Sohaib_Nehal: On GEO after 25 mins reporting on 30 causalities in USA by Sandy there was 2 mins report for 25 deaths in Pakistan as well. @Shahidmasooddr|Casualties and damage|"
+
+"
+89|False|11/23/2012 14:11:45|3|227175204|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"firefighters look up at a collapsed crane dangling from a building
+crane
+crane"
+90|False|11/23/2012 09:13:54|4|227175205|finalized|Informative (Indirect)|"6200
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.7488||RT @AircrewBuzz: RT @mpoppel: BREAKING -- About 6200 customers without power in NJ due to #Sandy; up from 2100: http://t.co/96ZIR3o5|Casualties and damage|"
+power
+without power
+customers without power"
+91|False|11/23/2012 09:17:44|3|227175206|finalized|Informative (Indirect)|"Two
+Two
+2"||||People: dead|1.0||Two Children Killed By Fallen Tree During Hurricane Sandy ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â® So Sad http://t.co/7VSqFj7o|Casualties and damage|"
+
+"
+92|False|11/23/2012 02:52:46|3|227175207|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"collapsed crane
+crane
+crane"
+93|False|11/23/2012 09:38:14|3|227175208|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @AP: AP Video: In New Jersey #Sandy destroyed several blocks of Atlantic City's world-famous boardwalk: http://t.co/TErK4JVK -RAS|Casualties and damage|"boardwalk
+boardwalk
+#Sandy destroyed several blocks of Atlantic City's world-famous boardwalk"
+94|False|11/23/2012 13:38:00|3|227175209|finalized|Informative (Indirect)|"48
+48
+48"||||People: dead|1.0||48 people confirmed dead so far from Hurricane Sandy hope no more die|Casualties and damage|"
+
+"
+95|False|11/23/2012 09:15:19|4|227175210|finalized|Informative (Indirect)|"
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"collapsed crane
+crane
+collapsed crane
+collapsed crane"
+96|False|11/23/2012 09:15:19|3|227175211|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @BAHjournalist: .@MikeBloomberg: 47000 customers have lost power in NYC mainly in Queens and Staten Island. #Sandy|Casualties and damage|"47000 customers have lost power in NYC
+power
+lost power"
+97|False|11/22/2012 18:03:59|3|227175212|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||NYC mayor press conference now: damages to subway & mass transit likely worst in history of system. Yet NYC depends on mass transit. #Sandy|Casualties and damage|"subway & mass transit
+damages to subway & mass transit
+subway & mass transit"
+98|False|11/23/2012 13:31:27|3|227175213|finalized|Informative (Indirect)|"
+
+"||||Not damage-related|0.6471||"RT @Salon: NYU cancer research lost in #Sandy flood ""will likely set back scientists' work by years."" http://t.co/8ksFdp8v"|Casualties and damage|"
+NYU cancer research
+"
+99|False|11/23/2012 13:55:34|3|227175214|finalized|Informative (Indirect)|"
+
+"||||Not damage-related|0.6471||"#Blackouts affect 500K as #Hurricane #Sandy #Reach in 1hr the #EastCoast | http://t.co/d2DxFlY0| #Virginia #Main #Storm #NYC #NY #NJ #Boston"|Casualties and damage|"
+electricity damaged
+"
+100|False|11/23/2012 09:17:44|3|227175215|finalized|Informative (Indirect)|"
+
+"||||Not damage-related|0.6761||RT @TheFakeNed: Listened to New York radio this morning. Apparently the locations in every Billy Joel and Bruce Springsteen song are flooded. #Sandy|Casualties and damage|"
+
+locations in every Billy Joel and Bruce Springsteen song are flooded"
+101|False|11/23/2012 09:44:32|3|227175216|finalized|Informative (Indirect)|"
+
+"||||Not damage-related|0.6729||RT @JustinKing224: This is...unreal. Essentially the only building with power in #NYC right now is the Empire State Building. #Sandy http://t.co/ScVhG8qH|Casualties and damage|"
+
+power"
+102|False|11/23/2012 13:47:22|3|227175217|finalized|Informative (Indirect)|"118
+118
+118"||||People: dead|1.0||RT @cnnbrk: At least 50 U.S. deaths now linked to #Sandy -- among a total of 118 worldwide. http://t.co/W3BSwLBL|Casualties and damage|"
+
+"
+103|False|11/23/2012 13:47:22|3|227175218|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @AnonymousPress: No jumping today kids! -&gt; Trampoline hanging on electrical cables (Milford Connecticut) #Sandy http://t.co/9WDbJ0dT|Casualties and damage|"Trampoline
+electrical cables
+Trampoline"
+104|False|11/23/2012 14:21:26|3|227175219|finalized|Informative (Indirect)|"54 confirmed deaths, 20 injured and 20 missing
+54
+94"||||People: injured and dead|0.6844||RT @pahowho: #Sandy In #Haiti 54 confirmed deaths were reported 20 injured and 20 missing http://t.co/Kbe1Jp7o cc: @pahodisasters|Casualties and damage|"
+
+"
+105|False|11/23/2012 09:46:48|3|227175220|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @CBSThisMorning: A boat rests on the tracks at NY's Metro-North's Ossining Station on the Hudson Line (Photo via MTA) #Sandy http://t.co/XYY7ySwC|Casualties and damage|"boat
+boat
+tracks at NY's Metro-North's Ossining Station"
+106|False|11/23/2012 13:31:27|3|227175221|finalized|Informative (Indirect)|"More than/or 54, More than 80.000
+More than/or 54 people died.More than 80.000 people died. (Burma)
+More than/or 54 people died. (USA) More than 80.000 people died. (Burma)"||||People: dead|1.0||Sandy: More than/or 54 people died. (USA). International crisis. Nargis: More than 80.000 people died. (Burma). No one cares.|Casualties and damage|"
+
+"
+107|False|11/23/2012 09:49:03|3|227175222|finalized|Informative (Indirect)|"
+
+"||||Not damage-related|0.6761||RT @barrabest: Times Square in #NYC has been abandoned because of hurricane #Sandy. The lights are still shining though. http://t.co/t88apVoO|Casualties and damage|"
+
+Times Square in #NYC has been abandoned"
+108|False|11/23/2012 14:25:53|3|227175223|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @nydailynews: UPDATE: Construction crane collapses in midtown Manhattan as #HurricaneSandy roars into NYC http://t.co/VR4ul19o #Sandy|Casualties and damage|"crane
+crane
+Construction crane"
+109|False|11/22/2012 18:23:54|3|227175224|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||Still unbelievable RT @RyanNewYork: Wow from Hell's Kitchen - the entire front of this building fell off! http://t.co/1lUZ5lAj #nyc #sandy|Casualties and damage|"Kitchen
+entire front of this building fell off!
+building"
+110|False|11/23/2012 02:56:30|3|227175225|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6415||NYC news anchors and producers watching crane and whispering ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬fall fall!ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â #Sandy|Casualties and damage|"
+crane
+crane"
+111|False|11/23/2012 03:14:44|3|227175226|finalized|Informative (Indirect)|"1
+1
+"||||People: dead|1.0||HMS Bounty Crew Member confirmed dead. Body Recovered by US Coast Guard. #sandy http://t.co/ajrF6sC6|Casualties and damage|"
+
+"
+112|False|11/23/2012 14:22:55|3|227175227|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"building
+crane
+crane"
+113|False|11/23/2012 14:28:48|3|227175228|finalized|Informative (Indirect)|"At least 33
+33 people dead and more than 7...
+73"||||People: dead|0.6724||UPDATE: At least 33 deaths blamed on Sandy: Superstorm Sandy winds down leaving 33 people dead and more than 7... http://t.co/8XXEKkNT|Casualties and damage|"power
+
+"
+114|False|11/23/2012 13:47:22|3|227175229|finalized|Informative (Indirect)|"@ least 39 people
+39
+39"||||People: dead|1.0||Absolutely heartbreaking MT@nytimes: @ least 39 people have died due 2 Hurricane Sandy. Here are a few of their stories.http://t.co/jN7NJhbk|Casualties and damage|"
+
+"
+115|False|11/23/2012 14:19:51|3|227175230|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||18000 Families Homeless In Haiti After Hurricane Sandy http://t.co/qxkU8tdH|Casualties and damage|"18000 Families Homeless In Haiti
+Home
+18000 Families Homeless In Haiti"
+116|False|11/23/2012 03:19:13|3|227175231|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @jvelezmitchell: RT @cnn: More than 765000 power outages so far due to Hurricane Sandy. Latest info on @CNN TV and our live blog: http://t.co/OkHC8ssW|Casualties and damage|"More than 765000 power outages
+power
+power outages"
+117|False|11/23/2012 09:40:30|3|227175232|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @kerstinshamberg: MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded #nyc #Sandy|Casualties and damage|"subway tunnels
+subway tunnels
+7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded"
+118|False|11/23/2012 03:17:40|3|227175233|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6867||Couple of NYC photos from Reddit showing the effects of Sandy so far - http://t.co/kLeV3Zod NYC Subway Station|Casualties and damage|"Subway Station
+Subway Station
+"
+119|False|11/23/2012 09:49:03|3|227175234|finalized|Informative (Indirect)|"
+
+Sandy's aftermath"||||Not specified (maybe people or infrastructure)|0.6761||Wow. Stay safe east coasters RT ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@NZStuff: Millions wake to destruction in Sandy's aftermath http://t.co/TzzmMiArÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â|Casualties and damage|"
+
+Sandy's aftermath"
+120|False|11/23/2012 14:11:45|3|227175235|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||Door to our roof was ripped off its hinges. Super is already fixing it! #nyc #Sandy http://t.co/nIfEPDip|Casualties and damage|"home
+roof
+Door to our roof was ripped off its hinges"
+121|False|11/23/2012 09:13:54|4|227175236|finalized|Informative (Indirect)|"29
+29
+at least 29
+29"||||People: dead|1.0||RT @hollyrpeete: #Prayers 'Unthinkable devastation' Sandy causes at least 29 U.S. deaths http://t.co/9p4biw5V|Casualties and damage|"
+
+
+"
+122|False|11/23/2012 09:40:30|3|227175237|finalized|Informative (Indirect)|"50
+50
+50"||||Both people and infrastructure|1.0||RT @MetroUK: Barack Obama to visit New Jersey after Superstorm Sandy kills 50 people and causes $20billion worth of damage http://t.co/6jnSsJFs|Casualties and damage|"$20billion worth of damage
+
+$20billion worth of damage"
+123|False|11/23/2012 13:59:20|3|227175238|finalized|Informative (Indirect)|"
+
+"||||Not specified (maybe people or infrastructure)|1.0||RT @totallycoolpix: TotallyCoolPix: The Hurricane Sandy Aftermath: She came she saw she destroyed. Hurricane Sandy came ashore las... http://t.co/Rl978fwW|Casualties and damage|"
+
+"
+124|False|11/22/2012 17:47:01|3|227175239|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6513||RT @twc_hurricane: Mayor Bloomberg: Over 1000 reports of downed trees and other problems with debris in #NYC. #Sandy|Casualties and damage|"Over 1000 reports of downed trees and other problems with debris
+downed trees
+"
+125|False|11/23/2012 09:49:03|3|227175240|finalized|Informative (Indirect)|"
+
+Storm was most destructive in 108-year history"||||Infrastructure (building, bridge, road, etc.) damage|0.3614||RT @nytjim: Storm was most destructive in 108-year history of NYC subway system says MTA chief Lhota. http://t.co/XbvLF31t|Casualties and damage|"
+subway system
+Storm was most destructive in 108-year history"
+126|False|11/23/2012 14:15:54|3|227175241|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6818||RT @NYTMetro: ConEd: Number of NYC-area customers without power is about 68700 and is sure to keep rising http://t.co/MXylkmqu|Casualties and damage|"power
+
+NYC-area customers without power is about 68700"
+127|False|11/23/2012 09:40:30|3|227175242|finalized|Informative (Indirect)|"
+
+devastation deaths"||||Not specified (maybe people or infrastructure)|0.6761||Sandy moves west leaving devastation deaths in its wake: The Atlantic superstorm Sandy churned across Pennsy... http://t.co/jB6x2Zxa|Casualties and damage|"
+
+devastation deaths"
+128|False|11/23/2012 14:03:45|3|227175243|finalized|Informative (Indirect)|"
+
+"||||Not specified (maybe people or infrastructure)|1.0||NYC Mayor Bloomberg - More than 20 fires spawned by storm #Sandy|Casualties and damage|"
+
+"
+129|False|11/23/2012 13:43:14|3|227175244|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @twc_hurricane: Mayor Bloomberg: Over 1000 reports of downed trees and other problems with debris in #NYC. #Sandy|Casualties and damage|"debris
+tree
+trees"
+130|False|11/23/2012 09:42:12|4|227175245|finalized|Informative (Indirect)|"
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||#Sandy hitting NYC: 47000 customers without power in new york city.|Casualties and damage|"47000 customers without power in new york city
+power
+without power
+47000 customers without power"
+131|False|11/23/2012 09:35:05|3|227175246|finalized|Informative (Indirect)|"500
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6724||RT @cliffordlevy: More #Sandy impact: Bellevue NYC's flagship public hospital loses power now evacuating 500 patients hospital says.|Casualties and damage|"hospital
+power
+hospital loses power now evacuating 500 patients"
+132|False|11/23/2012 09:49:03|3|227175247|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @NewYorkPost: Update: Crane Collapse... developing... #hurricance #nyc #sandy http://t.co/0jvimS1s|Casualties and damage|"Crane
+Crane
+Crane Collapse.."
+133|False|11/23/2012 14:22:55|3|227175248|finalized|Informative (Indirect)|"
+16
+"||||People: dead|1.0||RT @medialens: This says a lot. Hurricane Sandy's death toll as viewed by the BBC: http://t.co/UPPLzNNY (via @jackseale)|Casualties and damage|"
+
+"
+134|False|11/23/2012 09:17:44|3|227175249|finalized|Informative (Indirect)|"66
+66
+66"||||People: dead|1.0||#US #media When you reports deaths from #Sandy also note the 66 confirmed in the Caribbean phase of the storm.|Casualties and damage|"
+
+"
+135|False|11/23/2012 09:42:12|5|227175250|finalized|Informative (Indirect)|"
+
+
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"collapsed crane dangling from a building
+crane
+crane
+collapsed crane
+collapsed crane"
+136|False|11/22/2012 18:23:54|3|227175251|finalized|Informative (Indirect)|"39
+39
+39"||||People: dead|1.0||"Checking out ""US under ""attack"" :Sandy kills 39 as National Guard mobilized as"" on 9jabook: http://t.co/JILvYJHQ"|Casualties and damage|"
+
+"
+137|False|11/23/2012 14:21:26|3|227175252|finalized|Informative (Indirect)|"39
+39
+39"||||Both people and infrastructure|1.0||"US under ""attack"" :Sandy kills 39 as National Guard mobilized as power Shutsdown 11m homes in North East America http://t.co/JILvYJHQ"|Casualties and damage|"power Shutsdown 11m homes
+power
+11m homes"
+138|False|11/23/2012 09:15:19|3|227175253|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"crane
+crane
+collapsed crane dangling from a building"
+139|False|11/22/2012 18:16:50|3|227175254|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"building
+NYC firefighters look up at a collapsed crane dangling from a building
+crane"
+140|False|11/23/2012 14:27:51|3|227175255|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy"|Casualties and damage|"NYC firefighters look up at a collapsed crane dangling from a building
+crane
+crane"
+141|False|11/23/2012 09:17:44|3|227175256|finalized|Informative (Indirect)|"94
+54, 20, 20 missing
+54"||||People: injured and dead|0.6806||RT @pahowho: #Sandy In #Haiti 54 confirmed deaths were reported 20 injured and 20 missing http://t.co/Kbe1Jp7o cc: @pahodisasters|Casualties and damage|"
+
+"
+142|False|11/23/2012 14:07:12|3|227175257|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@naugusta: NYC Mayor Bloomberg says most without power in Queens and Staten Island. #SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â #statenisland #nyc #sandyabc7|Casualties and damage|"power
+power
+most without power in Queens and Staten Island"
+143|False|11/23/2012 14:15:54|3|227175258|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @newyorkhabitat: Stay safe! #NYC RT @WSJNY Crane crumples above One57 ManhattanÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s glitziest condo. #Sandy http://t.co/KVoA7ywr via @WSJ|Casualties and damage|"Crane
+Crane
+Crane"
+144|False|11/23/2012 14:28:48|3|227175259|finalized|Informative (Indirect)|"At least 50
+50
+50"||||Both people and infrastructure|1.0||At least 50 people died in the US during Hurricane Sandy. Power out to hundreds of thousands. Schools still closed.|Casualties and damage|"Power
+Power out to hundreds of thousands
+Schools"
+145|False|11/23/2012 13:47:22|3|227175260|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6818||Problems at Five Nuke Plants http://t.co/DtceY4pS|Casualties and damage|"Nuke Plants
+
+Nuke Plants"
+146|False|11/23/2012 02:56:30|3|227175261|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @NewYorkHabitat: Stay safe! #NYC RT @WSJNY Crane crumples above One57 ManhattanÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s glitziest condo. #Sandy http://t.co/QWTQ4FtZ via @WSJ|Casualties and damage|"Crane
+Crane
+Crane"
+147|False|11/23/2012 14:19:51|3|227175262|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6818||RT @FeedNYC: nydailynews: Sandy swamps Lower Manhattan with massive surge http://t.co/1L2mcYYu #nyc|Casualties and damage|"power
+
+swamps Lower Manhattan with massive surge"
+148|False|11/23/2012 09:42:12|3|227175263|finalized|Informative (Indirect)|"33
+At least 33
+33"||||People: dead|1.0||RT @WSJNY: At least 33 people in eight states were confirmed dead from Sandy including 16 people in New York City: http://t.co/1U1mjErO via @WSJ|Casualties and damage|"
+
+"
+149|False|11/23/2012 14:21:26|3|227175264|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @CBCAlerts: 70000 still without power in Ontario after #Sandy . Most to be reconnected within 24 hours: Ont. energy minister|Casualties and damage|"power
+power
+without power"
+150|False|11/22/2012 18:23:54|3|227175265|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @kerstinshamberg: MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded #nyc #Sandy|Casualties and damage|"7
+subway tunnels
+subway tunnels"
+151|False|11/23/2012 03:19:13|3|227175266|finalized|Informative (Indirect)|"at least 21
+21
+10"||||People: dead|1.0||RT @demixo13: ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@cnnbrk: Bloomberg; Storm killed 10 in NYC. CNN U.S. toll from #Sandy at least 21. http://t.co/5i8o9c1iÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â #eyeSJU #sandy|Casualties and damage|"
+
+"
+152|False|11/23/2012 13:43:14|3|227175267|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||Storm-battered US sifts through SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s wreckage: Peter Andrews removes belongings from his fatherÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s beachfront home destroyed in th...|Casualties and damage|"beachfront home
+home
+home"
+153|False|11/23/2012 09:44:32|3|227175268|finalized|Informative (Indirect)|"
+
+sandy #aftermath"||||Not damage-related|0.3455||Photo: #Astoria seems more or less unscathed #Ditmars #nyc #sandy #aftermath http://t.co/WnQQvpYK|Casualties and damage|"
+Astoria
+sandy #aftermath"
+154|False|11/23/2012 09:38:14|3|227175269|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||SMH . RT @CBSNews: Crane dangles from NYC high-rise as Hurricane Sandy bears down on city http://t.co/3UbIIicH|Casualties and damage|"Crane dangles from NYC high-rise as Hurricane Sandy bears down
+Crane
+Crane dangles from NYC high-rise"
+155|False|11/23/2012 14:11:45|3|227175270|finalized|Informative (Indirect)|"52
+52
+52"||||Both people and infrastructure|1.0||RT @paullewismoney: #sandy 200000 homeless in Haiti and 52 dead http://t.co/wMrBLWLT - But Mail reports no cellphone coverage in New York http://t.co/hJzbcNWr|Casualties and damage|"200000 homeless
+
+200000 homeless in Haiti"
+156|False|11/23/2012 14:27:51|3|227175271|finalized|Informative (Indirect)|"
+69
+69"||||People: dead|0.6724||Sandy Toll Hits 69 in Carribean http://t.co/MlFfKOWr @democracynow|Casualties and damage|"
+
+"
+157|False|11/23/2012 09:46:48|3|227175272|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|0.6421||Hurricane Sandy is expected to cause up to $10 billion in insured losses. Details: http://t.co/DdBTMYtb|Casualties and damage|"
+
+$10 billion in insured losses"
+158|False|11/23/2012 02:58:24|3|227175273|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @cblatts: Yes but my subway is delayed 4 days. RT @olavkjorven: #Sandy destroyed 70 per cent of the crops in southern #Haiti http://t.co/hk1bG7FC|Casualties and damage|"crops
+subway,crops
+crops"
+159|False|11/23/2012 14:27:51|3|227175274|finalized|Informative (Indirect)|"50
+FIFTY
+FIFTY DEAD"||||People: dead|1.0||FIFTY DEAD...and it's NOT over: Obama's grim warning as he prepares to visit scenes of hurricane 'major disaster' - http://t.co/zrqpgERI|Casualties and damage|"
+
+"
+160|False|11/23/2012 14:28:48|3|227175275|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||"ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/xyMHrTYh #SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â"|Casualties and damage|"crane
+crane
+collapsed crane"
+161|False|11/23/2012 14:22:55|3|227175276|finalized|Informative (Indirect)|"87
+69, 15, 3
+69 People In The Caribbean 15 People In NY & 3 People In NJ ."||||People: dead|1.0||RT @CallMe_Chelley: Sandy Killed 69 People In The Caribbean  15 People In NY  & 3 People In NJ . : ( RT To Show Respect .|Casualties and damage|"
+
+"
+162|False|11/22/2012 18:18:45|3|227175277|finalized|Informative (Indirect)|"
+
+"||||Not specified (maybe people or infrastructure)|0.3538||Monster storm Sandy leaves New York eastern U.S. crippled http://t.co/ZnpXnDAc|Casualties and damage|"
+
+New York eastern"
+163|False|11/23/2012 09:42:12|4|227175278|finalized|Informative (Indirect)|"Two
+Two
+Two
+2"||||People: dead|0.7642||RT @nydailynews: Two people found dead in Brooklyn Tuesday morning crushed by giant trees: http://t.co/mpw3UxvJ #Sandy|Casualties and damage|"
+
+
+"
+164|False|11/23/2012 14:28:48|3|227175279|finalized|Informative (Indirect)|"
+
+"||||Not damage-related|0.6724||RT @Slate: RT @danengber: Thousands of lab mice drowned at NYU hospital years of research lost. http://t.co/vacIpzQc|Casualties and damage|"
+
+hospital"
+165|False|11/23/2012 14:28:48|3|227175280|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||Mayor stated that all cranes had been secured but a crane dangles from NYC high-rise as #Sandy bears down on NYC. Yikes http://t.co/8BFwgo4q|Casualties and damage|"crane
+crane
+cranes"
+166|False|11/23/2012 14:07:12|3|227175281|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @BBCNewsUS: Via BBC's @helenamerriman in #NewJersey: Crowd gathered at collapsed boardwalk in #AtlanticCity all look up as AF1 flew overhead #sandy|Casualties and damage|"collapsed boardwalk
+boardwalk
+boardwalk"
+167|False|11/23/2012 02:56:30|4|227175282|finalized|Informative (Indirect)|"
+
+
+"||||Not damage-related|0.4956||NY had one of the highest surge values on the east coast becuase of shallow part of continental shelf: Mike Tidwell on @democracynow #Sandy|Casualties and damage|"
+
+electricity damaged
+"
+168|False|11/23/2012 02:54:36|3|227175283|finalized|Informative (Indirect)|"
+
+"||||Not damage-related|0.6365||"Burich Hashem! RT @WSJweather: No fatalities in #Sandy so far in NYC."""|Casualties and damage|"
+
+"
+169|False|11/23/2012 14:28:48|3|227175284|finalized|Informative (Indirect)|"
+
+"||||Infrastructure (building, bridge, road, etc.) damage|1.0||RT @DianeSawyer: Crane collapses near Carnegie Hall. Photo h/t @daveevansabc7 #SandyABC7 #Sandy http://t.co/WPnpMoxh|Casualties and damage|"Crane
+Crane
+Crane"
+170|True|9/6/2012 12:48:30|8|197560956|golden|Casualties and damage|||"
+
+house
+house
+n/a
+n/a
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|0.7573|Infrastructure (building, bridge, road, etc.) damaged|My house was blown away by a tornado, but a famous person just 'd something about my town. Who needs a house?|Casualties and damage|"house
+house
+
+
+n/a
+n/a
+n/a
+house"
+171|True|9/6/2012 12:43:58|7|197560957|golden|Casualties and damage|||"
+church
+
+n/a
+n/a
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|1.0|Infrastructure (building, bridge, road, etc.) damaged| @andersoncooper: I took this earlier. Cross still stands above destroyed church #Joplin http://yfrog.com/h2d7rgrj|Casualties and damage|"Church
+
+church
+n/a
+n/a
+n/a
+church"
+172|False|9/6/2012 13:12:49|3|197560958|finalized|Casualties and damage|||"
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|1.0||Tornado is gone and woman is assessing the damage to her house and still can barely stand because of the wind.|Casualties and damage|"house
+n/a
+house"
+173|True|9/6/2012 13:11:13|4|197560959|golden|Casualties and damage|||"
+n/a
+
+"||Not specified (maybe people or infrastructure)|1.0|"Infrastructure (building, bridge, road, etc.) damaged
+Both people and infrastructure
+Not specified (maybe people or infrastructure)"| @WISCTV_News3: Weather Service Confirms to News 3 an EF1 Tornado did damage in Verona. We'll have more details online shortly.|Casualties and damage|"
+n/a
+
+"
+174|True|9/6/2012 13:15:43|8|197560960|golden|Casualties and damage|||"
+
+n/a
+n/a
+n/a
+
+n/a
+"||Not specified (maybe people or infrastructure)|0.7281|"Not specified (maybe people or infrastructure)
+Not damage-related"|After hearing the tornado sirens, Pastor Daniel just told all the staff to go hide downstairs... before leaving in his tiny red car...|Casualties and damage|"
+
+n/a
+n/a
+n/a
+
+n/a
+"
+175|True|9/6/2012 13:12:20|7|197560961|golden|Casualties and damage|||"
+n/a
+n/a
+n/a
+n/a
+
+"||Not specified (maybe people or infrastructure)|0.8449|"Infrastructure (building, bridge, road, etc.) damaged
+Both people and infrastructure
+Not specified (maybe people or infrastructure)"|Driving.. it appears my area got hit the worst. Tornado in my backyard.. Next street over shut down w/ fire trucks and caution tape..|Casualties and damage|"
+n/a
+n/a
+n/a
+n/a
+
+"
+176|False|9/6/2012 13:09:48|3|197560962|finalized|Casualties and damage|||"n/a
+
+"||Not specified (maybe people or infrastructure)|1.0|| @velvetrasputin: The tornado damage in N. Minneapolis.   http://youtu.be/icvSJUWHHi0 -- damn... just glad my friends are all safe|Casualties and damage|"n/a
+
+"
+177|False|9/6/2012 13:12:20|3|197560963|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0||We just passed some major tornado damage in Birmingham, AL|Casualties and damage|"
+n/a
+"
+178|True|9/6/2012 12:34:25|6|197560964|golden|Casualties and damage|||"134
+134
+134
+134
+134
+134"|134.0|People: dead|1.0|People: dead| @stefkienstra: JOPLIN -- Gov. Jay Nixon announces zero people missing, 134 reported deceased. #JoplinTornado|Casualties and damage|"
+
+n/a
+
+n/a
+"
+179|True|9/6/2012 13:07:44|3|197560965|golden|Casualties and damage|||"
+n/a
+"||People: dead|0.3579|People: dead| @BreakingNews: Watch live: Memorial service for tornado victims in Joplin, Mo. http://on.msnbc.com/kpdG7A|Casualties and damage|"
+n/a
+"
+180|False|9/6/2012 13:14:54|3|197560966|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||" @EKaiserReuters: ""Joplin looked like some of the battles I saw in Korea,"" Korean war veteran and Missouri #tornado survivor says: htt ..."|Casualties and damage|"
+n/a
+"
+181|False|9/6/2012 13:15:43|4|197560967|finalized|Casualties and damage|||"
+n/a
+
+"||Not damage-related|0.5272||@RealWizKhalifa tornado just hit my town and the sky is #Black&Yellow so now have the song stuck in my head|Casualties and damage|"
+n/a
+
+"
+182|False|9/6/2012 13:14:54|4|197560968|finalized|Casualties and damage|||"
+n/a
+
+"||Not damage-related|0.5272||Full list of missing persons in #Joplin that was released this morning... http://bit.ly/mwwNIs|Casualties and damage|"
+n/a
+
+"
+183|True|9/6/2012 12:27:44|4|197560969|golden|Casualties and damage|||"
+n/a
+n/a
+"||People: dead|0.7529|"People: dead
+Not damage-related"|RIP to the people that died in  the springfeild tornado &lt;3333Ã¢â„¢Â¥Ã¢â„¢Â¥|Casualties and damage|"
+n/a
+n/a
+"
+184|False|9/6/2012 13:15:43|4|197560970|finalized|Casualties and damage|||"
+n/a
+
+"||Not damage-related|0.5272||If everything is where you left it earlier...you're blessed #prayforjoplin #joplin|Casualties and damage|"
+n/a
+
+"
+185|False|9/6/2012 12:34:53|3|197560971|finalized|Casualties and damage|||"
+n/a
+n/a"||Infrastructure (building, bridge, road, etc.) damaged|0.6697|| @andersoncooper: I took this earlier. Cross still stands above destroyed church #Joplin http://yfrog.com/h2d7rgrj|Casualties and damage|"church
+n/a
+n/a"
+186|False|9/6/2012 13:11:13|3|197560972|finalized|Casualties and damage|||"
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|1.0|| @andersoncooper: I took this earlier. Cross still stands above destroyed church #Joplin http://yfrog.com/h2d7rgrj|Casualties and damage|"church
+n/a
+church"
+187|True|9/6/2012 13:14:54|6|197560973|golden|Casualties and damage|||"
+
+n/a
+n/a
+
+"||Infrastructure (building, bridge, road, etc.) damaged|0.8373|Infrastructure (building, bridge, road, etc.) damaged|Client responded to a billing statement saying their bldg had been destroyed in a tornado and they lost a few invoices. Wow, awful!|Casualties and damage|"
+building
+n/a
+n/a
+bldg
+"
+188|False|9/6/2012 13:12:20|3|197560974|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421|| @Bill_Gross: Amazing - and stunningly sad - pictures of before and after the #Tornado swept through #Joplin: http://j.mp/lfa80S from  ...|Casualties and damage|"
+n/a
+"
+189|False|9/6/2012 12:38:29|3|197560975|finalized|Casualties and damage|||"89
+89
+89"||People: dead|1.0||Pray forÃ‚Â #Joplin. At least 89 dead & severe T-storms headed their way. The front dipped below us in Springfield last night.|Casualties and damage|"
+n/a
+"
+190|False|9/6/2012 12:50:17|3|197560976|finalized|Casualties and damage|||"1
+1
+"||People: dead|1.0|| @stormchaser4850: Edmond, OK woman dies in car accident while driving to beat tornado http://bit.ly/kWzV3x|Casualties and damage|"n/a
+
+"
+191|False|9/6/2012 12:40:22|3|197560977|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0||SHOCKING PHOTOGRAPHIC  account of the tornado devastation in Joplin, Missouri... Like a second hometown to me.|Casualties and damage|"
+n/a
+"
+192|False|9/6/2012 13:14:19|4|197560978|finalized|Casualties and damage|||"
+n/a
+
+"||Not specified (maybe people or infrastructure)|0.7364||Eqecat predicts Joplin Tornado damage between $1-3 billion. Take a look at the radar image of the twister: http://goo.gl/vyMmc|Casualties and damage|"
+n/a
+
+"
+193|False|9/6/2012 12:36:20|3|197560979|finalized|Casualties and damage|||"89
+89
+89"||People: dead|1.0|| @BBCWorld: US authorities confirm at least 89 killed after massive #tornado hits Joplin, southwest Missouri|Casualties and damage|"
+n/a
+"
+194|False|9/6/2012 12:34:53|4|197560980|finalized|Casualties and damage|||"
+n/a
+
+n/a"||Not specified (maybe people or infrastructure)|0.7529|| @txstormchasers: UNCONFIRMED reports out of #Springfield , MA from police scanner traffic of a neighborhood wiped out and numerous in ...|Casualties and damage|"neighborhood
+n/a
+
+n/a"
+195|False|9/6/2012 12:34:53|3|197560981|finalized|Casualties and damage|||"n/a
+
+n/a"||Infrastructure (building, bridge, road, etc.) damaged|0.6606|| @MsSavBee:  @KSTP: Damage from Mpls. #Tornado Estimated at $166M http://ow.ly/51VB4|Casualties and damage|"n/a
+
+n/a"
+196|False|9/6/2012 13:09:48|3|197560982|finalized|Casualties and damage|||"89
+89
+89"||People: dead|1.0||Tornado Kills 89 in Missouri. http://t.co/KhJUnPE|Casualties and damage|"
+n/a
+"
+197|False|9/6/2012 12:34:53|3|197560983|finalized|Casualties and damage|||"
+122
+122"||People: dead|0.6606|| @iamjonathancook: #Prayersforjoplin  @cnnbrk: #Tornado that killed 122 in Joplin, Missouri, was EF-5 with top winds of 200+ mph htt ...|Casualties and damage|"
+n/a
+n/a"
+198|False|9/6/2012 13:14:54|3|197560984|finalized|Casualties and damage|||"1
+1
+1"||People: dead|1.0|| @pgammo: A hero is the mother in W. Springfield who as the tornado came lay on top of her child in a tub. Child lived, mother was killed|Casualties and damage|"n/a
+
+"
+199|False|9/6/2012 13:14:19|3|197560985|finalized|Casualties and damage|||"
+n/a
+"||People: dead|1.0||Missouri officials continue identifying tornado dead \n    (Reuters)\n: Reuters - Missouri officials continued ... http://yhoo.it/iUINyO|Casualties and damage|"
+n/a
+"
+200|False|9/6/2012 12:57:41|3|197560986|finalized|Casualties and damage|||"3
+3
+3"||People: dead|1.0|| @weatherchannel: Sad news to report. 3 more people passed away recently due to injuries sustained during the #JoplinTornado. Total fa ...|Casualties and damage|"
+n/a
+"
+201|True|9/6/2012 13:14:19|5|197560987|golden|Casualties and damage|||"125
+125
+125
+125
+125"|125.0|People: dead|1.0|People: dead|#TFM City manager says Joplin tornado death toll rises to 125, no live rescues today - AP http://y... http://bit.ly/kgHRq2 #BreakingNews|Casualties and damage|"
+
+n/a
+
+"
+202|False|9/6/2012 12:34:53|3|197560988|finalized|Casualties and damage|||"
+n/a
+n/a"||Infrastructure (building, bridge, road, etc.) damaged|0.6606||Tornado will cost Joplin, MO $1-3 billion.  City's annual budget is $80 million (via ABC News) #joplin #tornado|Casualties and damage|"
+n/a
+n/a"
+203|False|9/6/2012 13:14:54|3|197560989|finalized|Casualties and damage|||"10
+10
+10"||People: dead|1.0||Brothers Ryan, Colt Hamil Died in Piedmont, Oklahoma Tornado: Oklahoma Dead Reach 10 http://nblo.gs/imGly|Casualties and damage|"
+n/a
+"
+204|False|9/6/2012 12:41:55|3|197560990|finalized|Casualties and damage|||"124
+124
+124"||People: dead|1.0||#Twilight News In: Deadly tornado kills 124, leaves 'twilight zone' in its wake http://bit.ly/jxnC6T|Casualties and damage|"
+n/a
+"
+205|False|9/6/2012 13:07:44|3|197560991|finalized|Casualties and damage|||"116
+116
+116"||People: dead|1.0||http://ow.ly/517lw The death toll has now risen to 116.  #Joplin  #Tragic|Casualties and damage|"
+n/a
+"
+206|False|9/6/2012 12:40:22|3|197560992|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421|| @at_pitt:  @BarackObama: In Joplin, Missouri, today to visit with those who lost so much in last week's devastating tornado.|Casualties and damage|"
+n/a
+"
+207|False|9/6/2012 13:15:43|4|197560993|finalized|Casualties and damage|||"
+n/a
+
+"||Not damage-related|0.5272||Check out http://www.CNN.com/impact to see what agencies are helping relief efforts in tornado-hit areas & how you can help.. #Joplin|Casualties and damage|"
+n/a
+
+"
+208|False|9/6/2012 13:15:43|4|197560994|finalized|Casualties and damage|||"122 dead, 750 injured
+122
+122 confirmed dead, 750 injured
+122 dead, 750 injured"||People: injured and dead|0.7364|| @CBCAlerts: 122 confirmed dead, 750 injured in Joplin, Mo. tornado . #Tornado that hit #Joplin was EF5 with winds 322 km/h.|Casualties and damage|"
+n/a
+
+"
+209|False|9/6/2012 13:15:43|4|197560995|finalized|Casualties and damage|||"
+n/a
+
+"||Infrastructure (building, bridge, road, etc.) damaged|0.7668|| @BreakingNews: Significant damage to homes, businesses after tornado touches down at Sedalia, Mo. http://bit.ly/gk6MtC|Casualties and damage|"homes and businesses
+n/a
+homes, businesses
+"
+210|False|9/6/2012 12:55:50|3|197560996|finalized|Casualties and damage|||"89
+89
+89"||People: dead|1.0|| @JenelleS_KVUE: (AP) -- Authorities confirm 89 dead after massive tornado hits southwest Missouri city #joplintornado|Casualties and damage|"
+n/a
+"
+211|False|9/6/2012 12:50:17|3|197560997|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421|| @BarackObama: In Joplin, Missouri, today to visit with those who lost so much in last week's devastating tornado.|Casualties and damage|"
+n/a
+"
+212|False|9/6/2012 12:34:25|3|197560998|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||"EFCA | Tornado Relief http://fb.me/UP2nLkPB"|Casualties and damage|"
+n/a
+"
+213|False|9/6/2012 12:52:00|3|197560999|finalized|Casualties and damage|||"4
+4
+4"||People: dead|0.6421||State of emergency declared in Massachusetts where tornado kills 4 people and injures dozens. @AMorningOttawa|Casualties and damage|"
+n/a
+"
+214|False|9/6/2012 12:40:22|3|197561000|finalized|Casualties and damage|||"123
+123
+123"||People: dead|1.0||Names Of 123 Killed In Joplin Tornado Released - http://goo.gl/6SH1N|Casualties and damage|"
+n/a
+"
+215|False|9/6/2012 12:55:50|3|197561001|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6746||US tornado toll hits new record http://bit.ly/kLb6Ri|Casualties and damage|"
+n/a
+"
+216|False|9/6/2012 13:14:19|4|197561002|finalized|Casualties and damage|||"3
+3
+3
+3"||People: dead|0.7604|| @weatherchannel: Sad news to report. 3 more people passed away recently due to injuries sustained during the #JoplinTornado. Total fa ...|Casualties and damage|"
+n/a
+
+"
+217|False|9/6/2012 12:57:41|3|197561003|finalized|Casualties and damage|||"7
+7
+7"||People: dead|1.0||Violent Weather Kills 7 in Oklahoma, Kansas - FoxNews.com http://t.co/mS3TfJh via @foxnews|Casualties and damage|"
+n/a
+"
+218|False|9/6/2012 12:36:20|3|197561004|finalized|Casualties and damage|||"20
+20
+20"||People: dead|1.0||Joplin police radio traffic says possibly 20 more bodied have been found near 20th and Connecticut. #joplin|Casualties and damage|"
+n/a
+"
+219|False|9/6/2012 13:11:13|3|197561005|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421|| @nathanmillsent: @kappaalphaorder Please : A tornado has destroyed the town of Joplin, MO. Delta Pi had brothers lose homes and nee ...|Casualties and damage|"
+n/a
+homes"
+220|False|9/6/2012 12:57:41|3|197561006|finalized|Casualties and damage|||"125
+125
+125"||People: dead|1.0|| @CrossCzech17: A tornado kills 125 innocent people in Joplin.  One week later, Westboro Baptist Church protests in Joplin.  God - you ...|Casualties and damage|"
+n/a
+"
+221|False|9/6/2012 12:55:50|3|197561007|finalized|Casualties and damage|||"141
+141
+114"||People: dead|1.0||Death toll from Joplin tornado rises to 141: officials - Reuters http://reut.rs/jw1E4Z|Casualties and damage|"
+n/a
+"
+222|False|9/6/2012 12:43:58|3|197561008|finalized|Casualties and damage|||"134
+134
+134"||People: dead|1.0||Death toll from Joplin tornado is 134, officials say (Reuters)  http://tiny.ly/dbpi|Casualties and damage|"
+n/a
+"
+223|False|9/6/2012 12:45:55|3|197561009|finalized|Casualties and damage|||"
+n/a
+"||People: dead|1.0||Tornado death toll rises, no more survivors found http://bit.ly/l8TGAq|Casualties and damage|"
+n/a
+"
+224|False|9/6/2012 12:34:25|3|197561010|finalized|Casualties and damage|||"
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|0.6834|| @TWCBreaking: Reports of minor tree damage coming in from Overland Park, KS, per emerg. mgt.   #tornado|Casualties and damage|"Tree damage
+n/a
+minor tree damage"
+225|False|9/6/2012 12:36:20|3|197561011|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0|| @nytimes: Delivering the bad news of the aftermath of the tornado weighs on a Joplin, Mo., police chaplain http://nyti.ms/iTohba|Casualties and damage|"
+n/a
+"
+226|False|9/6/2012 12:52:00|3|197561012|finalized|Casualties and damage|||"n/a
+
+"||Not damage-related|0.3579||#Joplin MO residents find X-rays from a hospital that was struck by a tornado 70 miles away|Casualties and damage|"hospital
+
+"
+227|True|9/6/2012 12:45:55|4|197561013|golden|Casualties and damage|||"89
+89
+89
+89"|89.0|People: dead|1.0|People: dead| @NBCActionNews: 89 confirmed deaths in #Joplin tornado #motornados|Casualties and damage|"
+n/a
+n/a
+"
+228|False|9/6/2012 13:07:44|3|197561014|finalized|Casualties and damage|||"
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|0.6746||Stunning  @BlairMiller9 CNN reports: X-rays from St. John's Hospital found 70 miles from #Joplin|Casualties and damage|"
+n/a
+St. John's Hospital"
+229|False|9/6/2012 11:43:34|3|197561015|finalized|Casualties and damage|||"n/a
+
+"||People: dead|1.0||#usnews Missouri officials continue identifying tornado dead |Casualties and damage|"n/a
+
+"
+230|False|9/6/2012 11:43:34|3|197561016|finalized|Casualties and damage|||"4
+4
+4"||People: dead|1.0|| @MB_Williams MB_Williams: Tornado, storms kill 4 near Oklahoma City, officials say  http://tiny.ly/qZ3y http://bit.ly/kLPwGN|Casualties and damage|"n/a
+
+"
+231|False|9/6/2012 12:54:00|3|197561017|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421|| @kathygriffin Watching you good folks & rescuers in #Joplin on the news. Devastation beyond imagine. Support @RedCross #tornado relief.|Casualties and damage|"
+n/a
+"
+232|False|9/6/2012 12:27:44|3|197561018|finalized|Casualties and damage|||"89
+89
+89"||People: dead|1.0|| @NBCActionNews: 89 confirmed deaths in #Joplin tornado #motornados|Casualties and damage|"
+n/a
+"
+233|False|9/6/2012 12:32:38|3|197561019|finalized|Casualties and damage|||"1
+1
+a mom"||People: dead|1.0||So sad a mom died saving her daughter yesterday during the tornado http://bit.ly/jFrSjA @GetGlue #SpringfieldMassachusetts|Casualties and damage|"
+n/a
+"
+234|False|9/6/2012 12:57:41|3|197561020|finalized|Casualties and damage|||"134
+134
+134"||People: dead|1.0||Photo: No More Missing After Joplin Tornado; 134 Dead Officials say they have accounted for all the people... http://tumblr.com/xg12suu0pt|Casualties and damage|"
+n/a
+"
+235|False|9/6/2012 12:27:44|3|197561021|finalized|Casualties and damage|||"1
+1
+1"||People: dead|1.0||Ã¢â‚¬Å“@Drudge_Report: Police officer helping tornado cleanup in Joplin struck by lightning, dies... http://t.co/0Iu8jFFÃ¢â‚¬Â #WTF #DontMoveToJoplin|Casualties and damage|"
+n/a
+"
+236|False|9/6/2012 13:12:20|3|197561022|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||#usnews Joplin tornado leaves thousands with no place to call home |Casualties and damage|"
+n/a
+"
+237|False|9/6/2012 12:33:23|3|197561023|finalized|Casualties and damage|||"
+Mother's heroic last act
+1"||People: dead|0.6746||Mother's heroic last act saves daughter in tornado http://bit.ly/iQie4S|Casualties and damage|"
+
+n/a"
+238|False|9/6/2012 13:12:49|3|197561024|finalized|Casualties and damage|||"2
+2
+Two"||People: dead|1.0||News-Leader: Two Joplin tornado victims die after suffering fungal infections http://dlvr.it/VhhDH|Casualties and damage|"
+n/a
+"
+239|False|9/6/2012 12:40:22|3|197561025|finalized|Casualties and damage|||"116
+116
+116"||People: dead|1.0|| @AdamSwenka:  @BreakingNews: Update: 116 confirmed dead in Joplin, city manager says #Joplin www.northpointchurch.tv/joplin|Casualties and damage|"
+n/a
+"
+240|False|9/6/2012 12:41:55|3|197561026|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0||FEMA teams assess Mass. tornado damage http://bit.ly/j3fBu1|Casualties and damage|"
+n/a
+"
+241|False|9/6/2012 12:54:00|3|197561027|finalized|Casualties and damage|||"
+n/a
+"||Not damage-related|0.6834||The city of #Joplin will observe a #momentofsilence at 6:41pmE/5:41pmC/2:41pmP today. The tornado hit Joplin at that time last Sunday|Casualties and damage|"
+n/a
+"
+242|False|9/6/2012 13:14:19|3|197561028|finalized|Casualties and damage|||"
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|0.6834||#PrayN4t/Lords  Healing & Restoration N Joplin. Church Destroyed By Tornado, Yet t/RoofTop Cross Still Standing, Refruge N #Jesus #Christ|Casualties and damage|"church
+n/a
+"
+243|False|9/6/2012 12:34:25|3|197561029|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6834||Shocking before and after picture of the joplin missouri tornado devastation http://bit.ly/mgpTWV|Casualties and damage|"
+n/a
+"
+244|False|9/6/2012 12:40:22|3|197561030|finalized|Casualties and damage|||"125
+125
+125"||People: dead|1.0||CNN Top Stories: 125 dead in Joplin: Residents of tornado-ravaged Joplin, Missouri, again found themselves huddl... http://bit.ly/jV7arS|Casualties and damage|"
+n/a
+"
+245|False|9/6/2012 12:45:55|3|197561031|finalized|Casualties and damage|||"125
+n/a
+"||People: dead|0.6834||FOX News: Tornado Death Toll Climbs http://bit.ly/kDqkC9|Casualties and damage|"
+n/a
+"
+246|False|9/6/2012 12:38:29|3|197561032|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0||Cannot believe the aftermath of the tornado here in western mass. The damage is devastating.|Casualties and damage|"
+n/a
+"
+247|False|9/6/2012 12:43:58|3|197561033|finalized|Casualties and damage|||"
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|0.6834|| @nwoweather: Apartments on the East side of Chickasha that were damaged by a Tornado 5-24-11 http://yfrog.com/h0h6pesj|Casualties and damage|"Apartments
+n/a
+Apartments"
+248|False|9/6/2012 12:54:00|3|197561034|finalized|Casualties and damage|||"
+n/a
+"||Not damage-related|0.6834||" @TIME: This dog was sucked up by a tornado, but crawled home on two broken legs | http://ti.me/kVEEDu (via @TIMENewsFeed)"|Casualties and damage|"
+n/a
+"
+249|False|9/6/2012 13:07:44|3|197561035|finalized|Casualties and damage|||"124
+124
+124"||People: dead|1.0|| @supadupaflygirl Just stop!!! :( : @cnnbrk: Joplin, Missouri, where at least 124 died Sunday, under #tornado watch http://t.co/hEbTeMu|Casualties and damage|"
+n/a
+"
+250|False|9/6/2012 12:50:17|3|197561036|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421|| @kgh23: An update on the #Joplin #tornado and the #dental practices it affected in today's industry news update ... http://bit.ly/iDKN4m|Casualties and damage|"
+n/a
+"
+251|False|9/6/2012 13:07:44|3|197561037|finalized|Casualties and damage|||"15
+
+15"||Both people and infrastructure|0.3579|| @KMBZnews: Mo. tornado injures 15, damages homes in Sedalia http://bit.ly/iU3yJ6|Casualties and damage|"n/a
+15 homes
+homes"
+252|False|9/6/2012 12:41:55|3|197561038|finalized|Casualties and damage|||"n/a
+
+"||Not specified (maybe people or infrastructure)|0.6421||http://t.co/RHhCE8B via @Joplin #Tornado Tragedy: Hole in the Heart of Missouri Town|Casualties and damage|"n/a
+
+"
+253|False|9/6/2012 12:38:29|3|197561039|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||So I'm sitting here watching footage of this tornAdo that hit Springfield........#Tragic|Casualties and damage|"
+n/a
+"
+254|False|9/6/2012 13:11:13|3|197561040|finalized|Casualties and damage|||"4
+4
+4"||People: dead|1.0|| @txstormchasers: WCVB-TV reporting at least 4 fatalities from Brimfield, Westfield, and Springfield, Mass. #tornado #mawx #severe|Casualties and damage|"
+n/a
+"
+255|False|9/6/2012 13:14:19|3|197561041|finalized|Casualties and damage|||"
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|0.3579||@StephenWRhodes I think only one tornado touched down and no damage other than trees down.|Casualties and damage|"
+n/a
+"
+256|False|9/6/2012 12:55:50|3|197561042|finalized|Casualties and damage|||"
+n/a
+"||Not damage-related|0.3579||Opening prayer at #Joplin Memorial Service.|Casualties and damage|"
+n/a
+"
+257|False|9/6/2012 13:12:20|3|197561043|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||@NBCNews: Tornado wreckage in  #Joplin, MO taken by @aaronsasson. http://instagr.am/p/EqbpK/|Casualties and damage|"
+n/a
+"
+258|False|9/6/2012 13:07:44|3|197561044|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421|| @StormChasersKC the power of the EF5 tornado to hit Joplin, still think your safe in a car? http://twitpic.com/54h21i|Casualties and damage|"
+n/a
+"
+259|False|9/6/2012 13:14:19|4|197561045|finalized|Casualties and damage|||"117
+117
+117
+117"||People: dead|0.7668|| @nytjim: #Joplin update: Officials say 1,500 people unaccounted for after #tornado. 117 confirmed deaths. http://nyti.ms/iZmvXR|Casualties and damage|"
+n/a
+
+"
+260|True|9/6/2012 12:54:00|3|197561046|golden|Casualties and damage|||"151
+151
+151"|151.0|People: dead|1.0|People: dead| @TheTornadoAllie: SPC has upped its death toll to 151 for the Joplin MO tornado. SPC also added 1 more killer tornado in OK from May  ...|Casualties and damage|"
+n/a
+"
+261|False|9/6/2012 12:57:41|3|197561047|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0|| @NatGeoSociety: Photos: Devastating aftermath of #Joplin, Missouri #tornado http://on.natgeo.com/iRx34h|Casualties and damage|"
+n/a
+"
+262|False|9/6/2012 12:52:00|3|197561048|finalized|Casualties and damage|||"
+n/a
+"||Not damage-related|0.3579||Springfield ma. got hit hard last night by a tornado SMH|Casualties and damage|"
+n/a
+"
+263|False|9/6/2012 12:27:44|3|197561049|finalized|Casualties and damage|||"8
+n/a
+8"||People: dead|0.6834||BREAKING: State Medical examiner's office confirms 8 fatalities in Oklahoma from last nights tornado outbreak|Casualties and damage|"
+n/a
+"
+264|False|9/6/2012 12:48:30|3|197561050|finalized|Casualties and damage|||"139
+139
+139"||People: dead|1.0|| @BreakingNews City spokeswoman in Joplin, Mo., says deathtoll from massive tornado now at least 139 people - AP|Casualties and damage|"
+n/a
+"
+265|False|9/6/2012 12:43:58|3|197561051|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0|| @Billyjensen: Joplin, MO before/after Tornado http://twitpic.com/522mfn via @Keith_Rob|Casualties and damage|"
+n/a
+"
+266|False|9/6/2012 12:54:00|3|197561052|finalized|Casualties and damage|||"43
+43
+43"||People: dead|1.0||#US Tuscaloosa County death toll from tornado increases to 43: After holding steady for almost... http://bit.ly/jcgV1T #Tuscaloosa #News|Casualties and damage|"
+n/a
+"
+267|False|9/6/2012 13:14:19|3|197561053|finalized|Casualties and damage|||"2
+n/a
+"||Not damage-related|0.3579||Two Joplin tornado victims die after suffering fungal infections http://dlvr.it/Vhyhs|Casualties and damage|"
+n/a
+"
+268|False|9/6/2012 13:11:13|3|197561054|finalized|Casualties and damage|||"134
+134
+134"||People: dead|1.0||#usnews Officials: 134 Confirmed Dead After Joplin Tornado http://tinyurl.com/3nyqmy2|Casualties and damage|"
+n/a
+"
+269|False|9/6/2012 11:43:34|3|197561055|finalized|Casualties and damage|||"n/a
+
+"||Not specified (maybe people or infrastructure)|1.0|| @RWJF_PubHealth: Post-Tornado #Environmental #Health Risks in #Joplin: http://bit.ly/lAsTP8|Casualties and damage|"n/a
+
+"
+270|False|9/6/2012 13:14:19|3|197561056|finalized|Casualties and damage|||"30
+30
+30"||People: dead|1.0|| @StephanieAbrams: Per Missouri EMA: Current #Joplintornado death toll is 30.Per Dr.Forbes: will be deadliest on record in Jasper Coun ...|Casualties and damage|"
+n/a
+"
+271|False|9/6/2012 12:52:00|3|197561057|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0|| @AnokaCounty: US Sen Klobuchar and @SivarajahMN will be looking at tornado damage later this morning in Fridley|Casualties and damage|"
+n/a
+"
+272|False|9/6/2012 12:48:30|3|197561058|finalized|Casualties and damage|||"
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|0.6834|| @TWCBreaking: Possible #tornado damage reported near Union City, TN.  Multiple trees down, one building destroyed.|Casualties and damage|"trees down and one building destroyed
+n/a
+Multiple trees down, one building destroyed"
+273|False|9/6/2012 12:54:00|3|197561059|finalized|Casualties and damage|||"116 fatalities....400 injured
+116
+116 fatalities, 400 injured"||People: injured and dead|0.6834|| @TWCBreaking: NWS:  Path width of #Joplin, MO #tornado was 3/4 mile wide.  116 fatalities....400 injured.|Casualties and damage|"
+n/a
+"
+274|False|9/6/2012 12:32:38|3|197561060|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421|| @horselady3: Brimfield Horse Impaled During Tornado Is Expected To Survive ... http://bit.ly/jA4KOQ|Casualties and damage|"
+n/a
+"
+275|False|9/6/2012 11:43:34|3|197561061|finalized|Casualties and damage|||"140
+140
+140"||People: dead|1.0|| @erinedgar: A receipt from Joplin Missouri traveled 550 miles after last week's tornado to end up in Indiana. 140 dead, 160 missing.|Casualties and damage|"n/a
+
+"
+276|False|9/6/2012 12:41:55|3|197561062|finalized|Casualties and damage|||"117
+117
+117"||People: dead|1.0|| @emmamcgreen: Death toll for #Joplin at 117.  To help, text REDCROSS to 90999 to donate $10.  Please .  @FleurDeKat @Tom_Bergeron @ ...|Casualties and damage|"
+n/a
+"
+277|False|9/6/2012 13:12:20|3|197561063|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||before / after shot of the Joplin tornado http://goo.gl/WypXX|Casualties and damage|"
+n/a
+"
+278|False|9/6/2012 13:09:48|3|197561064|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0|| @jackassworld:  @daveenglandshit: Preston Lacy's home town, Joplin, Missouri, was destroyed a week ago by a tornado. Text JOPLIN to ...|Casualties and damage|"
+n/a
+"
+279|False|9/6/2012 12:36:20|3|197561065|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||A rare multivortex tornado swept through Joplin, Missouri on Sunday night. Keep the victims in your prayers.|Casualties and damage|"
+n/a
+"
+280|False|9/6/2012 13:14:54|3|197561066|finalized|Casualties and damage|||"141
+141
+141"||People: dead|1.0||DTN USA: Death toll from Joplin tornado rises to 141: officials: CHICAGO (Reuters) - The death toll from the May... http://bit.ly/jHc7E9|Casualties and damage|"
+n/a
+"
+281|False|9/6/2012 12:45:55|3|197561067|finalized|Casualties and damage|||"house
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|1.0||#Joplin NORMLÃ¢â‚¬â„¢s Kelly Maddy loses #Missouri home to #tornado; please help!: Kelly's house wasÃ¢â‚¬Â¦ http://nxy.in/tn8fr|Casualties and damage|"
+n/a
+home"
+282|False|9/6/2012 13:14:19|3|197561068|finalized|Casualties and damage|||"
+n/a
+1"||People: dead|0.3579||Oklahoma tornado sweeps away young horse fancier's life, but strangers repl http://t.co/J5M15Ol|Casualties and damage|"
+n/a
+"
+283|False|9/6/2012 12:32:38|3|197561069|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0||35 Devastating Photos Of The Joplin, Missouri Tornado http://bzfd.it/mpW4Ca.... and you thought you were having a bad day: think again!!|Casualties and damage|"
+n/a
+"
+284|False|9/6/2012 12:55:50|3|197561070|finalized|Casualties and damage|||"
+n/a
+"||Infrastructure (building, bridge, road, etc.) damaged|0.6746||Playhouse theatre in #Joplin. You can see the chairs if you look close.  http://twitpic.com/51k7t6|Casualties and damage|"
+n/a
+Playhouse theatre"
+285|False|9/6/2012 12:27:44|3|197561071|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0||The tornado made the town of Etna look like a junk yard.  :( http://lockerz.com/s/105312284|Casualties and damage|"
+n/a
+"
+286|False|9/6/2012 13:11:13|3|197561072|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||" @TIME: This dog was sucked up by a tornado, but crawled home on two broken legs | http://ti.me/kVEEDu (via @TIMENewsFeed)"|Casualties and damage|"
+n/a
+"
+287|False|9/6/2012 12:27:44|3|197561073|finalized|Casualties and damage|||"116
+116
+116"||People: dead|1.0|| @lgc_com: Unreal  @TWCBreaking: Now confirmed 116 dead in Joplin, MO #tornado.Single deadliest #tornado since Woodward, OK (9 Apr 1 ...|Casualties and damage|"
+n/a
+"
+288|False|9/6/2012 12:50:17|3|197561074|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0||"Slow recovery from tornado in Kaukauna taking toll on residents: ""When there is so much devastation, it will take more than a few wee..."|Casualties and damage|"
+n/a
+"
+289|False|9/6/2012 12:48:30|3|197561075|finalized|Casualties and damage|||"2
+n/a
+2"||People: injured|0.6834|| @TWCBreaking: We have confirmation that 2 police officers were struck by lightning in #Joplin, their conditions are unknown at this time.|Casualties and damage|"
+n/a
+"
+290|False|9/6/2012 12:50:17|3|197561076|finalized|Casualties and damage|||"124
+124
+124"||People: dead|1.0|| @cnnbrk: Joplin, Missouri, where at least 124 died Sunday, under #tornado watch http://on.cnn.com/k1ZN2b|Casualties and damage|"
+n/a
+"
+291|False|9/6/2012 12:45:55|3|197561077|finalized|Casualties and damage|||"89
+89
+89"||People: dead|1.0||Breaking: 89 confirmed dead in #Joplin, MO as a result of the devastating tornado that hit Sunday. #CNN has live reports from the scene|Casualties and damage|"
+n/a
+"
+292|False|9/6/2012 12:48:30|3|197561078|finalized|Casualties and damage|||"120
+n/a
+120"||People: dead|0.6834||"rb @ditisConny: ""RB @Greenfields47: ""everybody is hurting in joplin(120 casualties) tornado""....Total is 500 Cas... Ã¢â„¢Â« http://blip.fm/~14uu79"|Casualties and damage|"
+n/a
+"
+293|False|9/6/2012 12:41:55|3|197561079|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||Injuries, damage in Mass. tornado: A tornado that caused damage in Springfield, Mass., Wednesday afternoon was still on the ground an...|Casualties and damage|"
+n/a
+"
+294|False|9/6/2012 12:43:58|3|197561080|finalized|Casualties and damage|||"125
+n/a
+"||People: dead|0.6834|| @ABCEnvironment: Death toll from US tornadoes climbs. 1,500 still missing http://bit.ly/jLSpfk #weather #joplin|Casualties and damage|"
+n/a
+"
+295|False|9/6/2012 12:50:17|3|197561081|finalized|Casualties and damage|||"11
+11
+11"||People: dead|1.0||(AP) -- Nursing home owner in #Joplin says Sunday's tornado killed 11 from his property alone|Casualties and damage|"
+n/a
+"
+296|False|9/6/2012 13:09:48|3|197561082|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||The devastation at Joplin is heart breaking. My prayers go out to the victims of the tornado.|Casualties and damage|"
+n/a
+"
+297|False|9/6/2012 12:38:29|3|197561083|finalized|Casualties and damage|||"116
+116
+116"||People: dead|1.0|| @ABC: #BreakingNews: Midwest Tornado Death Toll Rises Sharply to 116 #Joplin #Missouri|Casualties and damage|"
+n/a
+"
+298|False|9/6/2012 12:55:50|3|197561084|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0|| @WorldVisionNews: Day 1 assessment in #Joplin, #Missouri found #tornado damage even more severe than #Tuscaloosa  ... #WorldVision|Casualties and damage|"
+n/a
+"
+299|False|9/6/2012 12:48:30|3|197561085|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||What the country and the world have witnessed this week is the Spirit of  #Joplin Missouri MO Gov Jay Nixon|Casualties and damage|"
+n/a
+"
+300|False|9/6/2012 11:43:34|3|197561086|finalized|Casualties and damage|||"n/a
+
+130"||Not specified (maybe people or infrastructure)|1.0|| @NatGeoSociety: Photos: Devastating aftermath of #Joplin, Missouri #tornado http://on.natgeo.com/iRx34h|Casualties and damage|"n/a
+
+"
+301|False|9/6/2012 13:12:49|3|197561087|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|1.0|| @BreakingNews: Denning, Arkansas, which has 100 homes, is destroyed by tornado - National Weather Service via KNWA http://bit.ly/k2Sbkv|Casualties and damage|"
+n/a
+"
+302|False|9/6/2012 12:38:29|3|197561088|finalized|Casualties and damage|||"
+n/a
+"||Not specified (maybe people or infrastructure)|0.6421||Sen. Alexander will tour tornado-damaged areas in Greene and Washington counties on Wednesday afternoon. http://bit.ly/lb726p.|Casualties and damage|"
+n/a
+"
+303|False|9/6/2012 12:43:58|3|197561089|finalized|Casualties and damage|||"18
+n/a
+"||Not damage-related|0.3579|| @GMA: 18 tornado reports yesterday including 7 in Massachusetts, 4 in California and the rest in Nebraska and Kansas (via NWS)|Casualties and damage|"
+n/a
+"
+304|False|9/6/2012 12:34:53|3|197561090|finalized|Casualties and damage|||"130
+130
+130"||People: dead|1.0|| @BreakingNews: Joplin mayor Mike Woolston says more bodies found this morning, bringing tornado death toll to 130 - NBC News|Casualties and damage|"
+
+n/a"
+305|False|9/6/2012 12:34:25|3|197561091|finalized|Casualties and damage|||"n/a
+
+"||Not specified (maybe people or infrastructure)|0.6421||Video of Kitten Found in Joplin Missouri Tornado Debris  http://bit.ly/l6NHKw|Casualties and damage|"n/a
+
+"
+306|False|9/6/2012 12:34:25|3|197561092|finalized|Casualties and damage|||"n/a
+
+"||Not specified (maybe people or infrastructure)|1.0||Damage from the Joplin Tornado . . . Devastating http://fb.me/RPgEae8u|Casualties and damage|"n/a
+
+"
+307|False|9/6/2012 12:57:41|3|197561093|finalized|Casualties and damage|||"
+n/a
+"||Not damage-related|0.3579|| @CBCAlerts: Storm leaves 70,000 without power in southern Ontario . Possible tornadoes reported north of Toronto. #tornado|Casualties and damage|"power
+n/a
+"
